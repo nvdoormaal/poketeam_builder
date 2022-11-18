@@ -32,9 +32,8 @@ You can see from the url that we're looking at the pokedex from Dimand and Pearl
 - the pokemon number (for example, pikachu is number 025)
 - the end. All pages end in '.shtml'
 
-This makes it very easy to already build our urls that we can pass on to our scraper.
+This makes it very easy to already build our urls that we can pass on to our scraper. We'll start with building the urls for the first 251 pokemons.
 ```{r build-links}
-## We'll start with the pokemons from the first two generations, 1 to 251.
 ## The padding is needed to add some leading zero's for the links
 poke_numbers <- str_pad(1:251, 3, pad = "0") %>% 
   as.character()
@@ -42,13 +41,12 @@ poke_numbers <- str_pad(1:251, 3, pad = "0") %>%
 poke_links <- paste0(base_url, poke_numbers, ".shtml")
 ```
 
-
 ```{r scrape-time, warning=FALSE}
 source(
   here("scripts", "poke_scraper.R")
 )
 poke_df <- map(
-  poke_links, get_poke_data
+  poke_links, get_poke_data, time = 2
 ) %>% 
   bind_rows()
 ```

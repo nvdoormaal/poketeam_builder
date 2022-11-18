@@ -1,0 +1,252 @@
+number,name,type_one,type_two,location_one,location_two,first_form_number
+1,Bulbasaur,grass,poison,Receive from Professor Oak,Receive from Professor Oak,1
+2,Ivysaur,grass,poison,Evolve Bulbasaur,Evolve Bulbasaur,1
+3,Venusaur,grass,poison,Evolve Ivysaur,Evolve Ivysaur,1
+4,Charmander,fire,NA,Receive from Professor Oak,Receive from Professor Oak,4
+5,Charmeleon,fire,NA,Evolve Charmander,Evolve Charmander,4
+6,Charizard,fire,flying,Evolve Charmeleon,Evolve Charmeleon,4
+7,Squirtle,water,NA,Receive from Professor Oak,Receive from Professor Oak,7
+8,Wartortle,water,NA,Evolve Squirtle,Evolve Squirtle,7
+9,Blastoise,water,NA,Evolve Wartortle,Evolve Wartortle,7
+10,Caterpie,bug,NA,"Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest",Bug Catching Contest,10
+11,Metapod,bug,NA,"Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest",Bug Catching Contest,10
+12,Butterfree,bug,flying,"Route 2, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest",Bug Catching Contest,10
+13,Weedle,bug,poison,Bug Catching Contest,"Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest",13
+14,Kakuna,bug,poison,Bug Catching Contest,"Route 2, Route 30, Route 31, Ilex Forest, National Park, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest",13
+15,Beedrill,bug,poison,Bug Catching Contest,"Route 2, Viridian ForestIlex Forest (Headbutt)Bug Catching Contest",13
+16,Pidgey,normal,flying,"Route 1, Route 2, Route 5, Route 6, Route 25, Route 29, Route 30, Route 31, Route 37, Route 35, Route 36, Route 37, National Park, Viridian ForestSafari Zone","Route 1, Route 2, Route 5, Route 6, Route 25, Route 29, Route 30, Route 31, Route 37, Route 35, Route 36, Route 37, National Park, Viridian ForestSafari Zone",16
+17,Pidgeotto,normal,flying,"Route 2, Route 8, Route 13, Route 14, Route 15, Route 25, Route 37, Route 37, Route 43, Viridian Forest","Route 2, Route 8, Route 13, Route 14, Route 15, Route 25, Route 37, Route 37, Route 43, Viridian Forest",16
+18,Pidgeot,normal,flying,Evolve Pidgeotto,Evolve Pidgeotto,16
+19,Rattata,normal,NA,"Route 1, Route 3, Route 4, Route 7, Route 9, Route 11, Route 22, Route 29, Route 32, Route 33, Route 38, Route 39, Route 46, Sprout Tower, Union Cave, Mt. Mortar, Bell Tower, Burnt Tower, Tohjo FallsSafari Zone","Route 1, Route 3, Route 4, Route 7, Route 9, Route 11, Route 22, Route 29, Route 30, Route 31, Route 32, Route 33, Route 46, Sprout Tower, Union Cave, Mt. Mortar, Bell Tower, Burnt Tower, Tohjo FallsSafari Zone",19
+20,Raticate,normal,NA,"Route 7, Route 9, Route 10, Route 26, Route 27, Route 38, Route 39, Route 47, Union Cave, Mt. Mortar, Burnt Tower, Tohjo FallsSafari Zone","Route 7, Route 9, Route 10, Route 26, Route 27, Route 38, Route 39, Route 47, Union Cave, Mt. Mortar, Burnt Tower, Tohjo FallsSafari Zone",19
+21,Spearow,normal,flying,"Route 3, Route 4, Route 7, Route 9, Route 10, Route 22, Route 33, Route 42, Route 46, Route 47Routes 7, 11, 16, 33, 42, 44, 45 & 46, Azalea Town, Vemillion City & Azalea Town (Headbutt)Safari Zone","Route 3, Route 4, Route 7, Route 9, Route 10, Route 22, Route 33, Route 42, Route 46, Route 47Routes 7, 11, 16, 33, 42, 44, 45 & 46, Azalea Town, Vemillion City & Azalea Town (Headbutt)Safari Zone",21
+22,Fearow,normal,flying,"Route 9, Route 10, Route 16, Route 17, Route 18, Route 22, Route 47, Route 48Safari Zone","Route 9, Route 10, Route 16, Route 17, Route 18, Route 22, Route 47, Route 48Safari Zone",21
+23,Ekans,poison,NA,Safari Zone,"Route 3, Route 4, Route 32, Route 33, Route 37, Route 37Safari Zone",23
+24,Arbok,poison,NA,Safari Zone,"Route 3, Route 4, Route 26, Route 27Safari Zone",23
+25,Pikachu,electric,NA,Viridian Forest,Viridian Forest,172
+26,Raichu,electric,NA,Evolve Pikachu,Evolve Pikachu,172
+27,Sandshrew,ground,NA,"Union Cave, Mt. MoonSafari Zone",Safari Zone,27
+28,Sandslash,ground,NA,"Route 26, Route 27, Mt. MoonSafari Zone",Safari Zone,27
+29,Nidoran♀,poison,NA,"Route 35, Route 36Safari Zone","Route 35, Route 36Safari Zone",NA
+30,Nidorina,poison,NA,"Route 13, Route 14, Route 15Safari Zone","Route 13, Route 14, Route 15Safari Zone",NA
+31,Nidoqueen,poison,ground,Evolve Nidorina,Evolve Nidorina,NA
+32,Nidoran♂,poison,NA,"Route 35, Route 36Safari Zone","Route 35, Route 36Safari Zone",NA
+33,Nidorino,poison,NA,"Route 13, Route 14, Route 15Safari Zone","Route 13, Route 14, Route 15Safari Zone",NA
+34,Nidoking,poison,ground,Evolve Nidorino,Evolve Nidorino,NA
+35,Clefairy,normal,NA,Mt. MoonSafari Zone,Mt. MoonSafari Zone,173
+36,Clefable,normal,NA,Evolve Clefairy,Evolve Clefairy,173
+37,Vulpix,fire,NA,Trade from DPtSS,"Route 7, Route 8, Route 37, Route 36, Route 37, Route 48",37
+38,Ninetales,fire,NA,Trade from DPt,Evolve Vulpix,37
+39,Jigglypuff,normal,/pokedex-bw/type/fairy,"Route 3, Route 4Safari Zone","Route 3, Route 4Safari Zone",174
+40,Wigglytuff,normal,/pokedex-bw/type/fairy,Evolve Jigglypuff,Evolve Jigglypuff,174
+41,Zubat,poison,flying,"Route 3, Route 4, Route 32, Route 33, Slowpoke Well, Union Cave, Ilex Forest, Mt. Mortar, Burnt Tower, Dark Cave, Whirl Islands, Ice Path, The Cliff Cave, Mt. Moon, Rock Tunnel, Seafoam Islands, Tohjo FallsSafari Zone","Route 3, Route 4, Route 32, Route 33, Route 42, Slowpoke Well, Union Cave, Ilex Forest, Mt. Mortar, Burnt Tower, Dark Cave, Whirl Islands, Ice Path, The Cliff Cave, Mt. Moon, Rock Tunnel, Seafoam Islands, Tohjo FallsSafari Zone",41
+42,Golbat,poison,flying,"Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, The Cliff Cave, Cerulean Cave, Seafoam Islands, Victory Road, Tohjo FallsSafari Zone","Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, The Cliff Cave, Cerulean Cave, Seafoam Islands, Victory Road, Tohjo FallsSafari Zone",41
+43,Oddish,grass,poison,"Route 5, Route 6, Route 24, Route 25, Ilex ForestSafari Zone","Route 5, Route 6, Route 24, Route 25, Ilex ForestSafari Zone",43
+44,Gloom,grass,poison,"Route 5, Route 6, Route 47, Route 48Safari Zone","Route 5, Route 47, Route 48Safari Zone",43
+45,Vileplume,grass,poison,Evolve Gloom,Evolve Gloom,43
+46,Paras,bug,grass,"Ilex Forest, Mt. MoonBug Catching ContestSafari Zone","Ilex Forest, Mt. MoonBug Catching Contest",46
+47,Parasect,bug,grass,Cerulean CaveSafari Zone (Special Items),Cerulean CaveSafari Zone (Special Items),46
+48,Venonat,bug,poison,"Route 24, Route 25, Route 43Route 43, Lake of Rage (Headbutt)Bug Catching Contest","Route 24, Route 25, Route 43Bug Catching ContestRoute 43, Lake of Rage (Headbutt)",48
+49,Venomoth,bug,poison,"Route 24, Route 25","Route 24, Route 25",48
+50,Diglett,ground,NA,"Route 48, Vermillion City, Diglett's CaveSafari Zone (Special Items)","Route 48, Vermillion City, Diglett's CaveSafari Zone (Special Items)",50
+51,Dugtrio,ground,NA,Diglett's Cave,Diglett's Cave,50
+52,Meowth,normal,NA,Trade from DPtSS,"Route 5, Route 6, Route 7, Route 8, Route 38, Route 39",52
+53,Persian,normal,NA,Trade from DPtSS,"Route 7, Cerulean Cave",52
+54,Psyduck,water,NA,"Route 6, Route 35, Ilex Forest, Cerulean Cave, Seafoam IslandsSafari Zone","Route 6, Route 35, Ilex Forest, Cerulean Cave, Seafoam IslandsSafari Zone",54
+55,Golduck,water,NA,"Route 6, Route 35, Ilex Forest, Mt. Silver, Cerulean Cave, Seafoam IslandsSafari Zone","Route 6, Route 35, Ilex Forest, Mt. Silver, Cerulean Cave, Seafoam IslandsSafari Zone",54
+56,Mankey,fighting,NA,"Route 9, Route 42",Trade from DPtHG,56
+57,Primeape,fighting,NA,"Route 9, Cerulean Cave",Trade from DPtHG,56
+58,Growlithe,fire,NA,"Route 7, Route 8, Route 37, Route 36, Route 37, Route 48",Trade from DPtHG,58
+59,Arcanine,fire,NA,Evolve Growlithe,Trade from DPtHG,58
+60,Poliwag,water,NA,"Route 6, Route 22, Route 28, Route 30, Route 31, Route 35, Route 43, Route 44, Route 45, Violet City, Ecruteak City, Blackthorn City, Ruins of Alph, Ilex Forest, Mt. Silver, Cliff's Edge Gate, Viridian City, Cerulean CaveSafari Zone","Route 6, Route 22, Route 28, Route 30, Route 31, Route 35, Route 43, Route 44, Route 45, Violet City, Ecruteak City, Blackthorn City, Ruins of Alph, Ilex Forest, Mt. Silver, Cliff's Edge Gate, Viridian City, Cerulean CaveSafari Zone",60
+61,Poliwhirl,water,NA,"Route 22, Route 28, Route 30, Route 31, Violet City, Ecruteak City, Mt. Silver, Viridian City, Cerulean CaveSafari Zone","Route 22, Route 28, Route 30, Route 31, Violet City, Ecruteak City, Mt. Silver, Viridian City, Cerulean CaveSafari Zone",60
+62,Poliwrath,water,fighting,Evolve Poliwhirl,Evolve Poliwhirl,60
+63,Abra,psychic,NA,"Route 5, Route 6, Route 8, Route 24, Route 25, Route 34, Route 35Safari Zone","Route 5, Route 6, Route 8, Route 24, Route 25, Route 34, Route 35Safari Zone",63
+64,Kadabra,psychic,NA,"Route 8, Cerulean Cave","Route 8, Cerulean Cave",63
+65,Alakazam,psychic,NA,Evolve Kadabra,Evolve Kadabra,63
+66,Machop,fighting,NA,"Mt. Mortar, The Cliff Cave, Rock TunnelSafari Zone","Mt. Mortar, The Cliff Cave, Rock TunnelSafari Zone",66
+67,Machoke,fighting,NA,"Mt. Mortar, The Cliff Cave, Cerulean Cave, Rock TunnelSafari Zone (Special Items)","Mt. Mortar, The Cliff Cave, Cerulean Cave, Rock TunnelSafari Zone (Special Items)",66
+68,Machamp,fighting,NA,Evolve Machoke,Evolve Machoke,66
+69,Bellsprout,grass,poison,"Route 5, Route 6, Route 24, Route 25, Route 31, Route 32, Route 44Safari Zone","Route 5, Route 6, Route 24, Route 25, Route 31, Route 32, Route 44Safari Zone",69
+70,Weepinbell,grass,poison,"Route 24, Route 25, Route 44Safari Zone (Special Items)","Route 24, Route 25, Route 44Safari Zone (Special Items)",69
+71,Victreebel,grass,poison,Evolve Weepinbell,Evolve Weepinbell,69
+72,Tentacool,water,poison,"Route 12, Route 13, Route 19, Route 20, Route 21, Route 26, Route 27, Route 32, Route 40, Route 41, Route 47, New Bark Town, Cherrygrove City, Olivine City, Cianwood City, Union Cave, Whirl Islands, Pallet Town, Vermillion City, Cinnabar Island","Route 12, Route 13, Route 19, Route 20, Route 21, Route 26, Route 27, Route 32, Route 40, Route 41, Route 47, New Bark Town, Cherrygrove City, Olivine City, Cianwood City, Union Cave, Whirl Islands, Pallet Town, Vermillion City, Cinnabar Island",72
+73,Tentacruel,water,poison,"Route 12, Route 13, Route 19, Route 20, Route 21, Route 26, Route 27, Route 32, Route 40, Route 41, Route 47, New Bark Town, Cherrygrove City, Olivine City, Cianwood City, Union Cave, Whirl Islands, Pallet Town, Vermillion City, Cinnabar Island","Route 12, Route 13, Route 19, Route 20, Route 21, Route 26, Route 27, Route 32, Route 40, Route 41, Route 47, New Bark Town, Cherrygrove City, Olivine City, Cianwood City, Union Cave, Whirl Islands, Pallet Town, Vermillion City, Cinnabar Island",72
+74,Geodude,rock,ground,"Route 45, Route 46, Ruins of Alph, Union Cave, Mt. Mortar, Dark Cave, The Cliff Cave, Mt. Moon, Rock Tunnel, Victory RoadSafari Zone","Route 45, Route 46, Ruins of Alph, Union Cave, Mt. Mortar, Dark Cave, The Cliff Cave, Mt. Moon, Rock Tunnel, Victory RoadSafari Zone",74
+75,Graveler,rock,ground,"Route 45, Mt. Mortar, Dark Cave, Mt. Silver, The Cliff Cave, Victory RoadSafari Zone","Route 45, Mt. Mortar, Dark Cave, Mt. Silver, The Cliff Cave, Victory RoadSafari Zone",74
+76,Golem,rock,ground,Evolve Graveler,Evolve Graveler,74
+77,Ponyta,fire,NA,"Route 22, Route 26, Route 27, Route 28, Mt. SilverSafari Zone (Special Items)","Route 22, Route 26, Route 27, Route 28, Mt. SilverSafari Zone (Special Items)",77
+78,Rapidash,fire,NA,"Route 22, Route 28, Mt. Silver","Route 22, Route 28, Mt. Silver",77
+79,Slowpoke,water,psychic,"Slowpoke Well, Tohjo FallsSafari Zone","Slowpoke Well, Tohjo FallsSafari Zone",79
+80,Slowbro,water,psychic,"Slowpoke Well, Seafoam IslandsSafari Zone","Slowpoke Well, Seafoam IslandsSafari Zone",79
+81,Magnemite,electric,steel,"Route 11, Route 38, Route 39Safari Zone","Route 6, Route 11, Route 38, Route 39Safari Zone",81
+82,Magneton,electric,steel,Cerulean CaveSafari Zone,Cerulean CaveSafari Zone,81
+83,Farfetch'd,normal,flying,"Route 38, Route 39, Route 47, Route 48Safari Zone","Route 38, Route 39, Route 47, Route 48Safari Zone",83
+84,Doduo,normal,flying,"Route 22, Route 26, Route 27, Route 28, Mt. SilverSafari Zone","Route 22, Route 26, Route 27, Route 28, Mt. SilverSafari Zone",84
+85,Dodrio,normal,flying,"Route 26, Route 28, Mt. SilverSafari Zone (Special Items)","Route 27, Route 28, Mt. SilverSafari Zone (Special Items)",84
+86,Seel,water,NA,"Route 47, Whirl Islands, Seafoam Islands","Route 47, Whirl Islands, Seafoam Islands",86
+87,Dewgong,water,ice,Seafoam Islands,Seafoam Islands,86
+88,Grimer,poison,NA,"Route 16, Route 17, Route 18, Celadon CitySafari Zone","Route 16, Route 17, Route 18, Celadon CitySafari Zone",88
+89,Muk,poison,NA,"Route 16, Route 17, Route 18, Celadon City","Route 16, Route 17, Route 18, Celadon City",88
+90,Shellder,water,NA,"Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island","Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island",90
+91,Cloyster,water,ice,Evolve Shellder,Evolve Shellder,90
+92,Gastly,ghost,poison,"Sprout Tower, Bell TowerSafari Zone","Sprout Tower, Bell TowerSafari Zone",92
+93,Haunter,ghost,poison,Route 8Safari Zone,Route 8Safari Zone,92
+94,Gengar,ghost,poison,Evolve Haunter,Evolve Haunter,92
+95,Onix,rock,ground,"Union Cave, Mt. Silver, The Cliff Cave, Rock Tunnel, Victory RoadSafari Zone","Union Cave, Mt. Silver, The Cliff Cave, Rock Tunnel, Victory RoadSafari Zone",95
+96,Drowzee,psychic,NA,"Route 11, Route 35Safari Zone","Route 11, Route 35Safari Zone",96
+97,Hypno,psychic,NA,Route 11Safari Zone (Special Items),Route 11Safari Zone,96
+98,Krabby,water,NA,"Route 19, Route 40, Cherrygrove City, Olivine City, Cianwood City, Union Cave, Whirl Islands, The Cliff CaveSafari Zone","Route 19, Route 40, Cherrygrove City, Olivine City, Cianwood City, Union Cave, Whirl Islands, The Cliff Cave, Seafoam IslandsSafari Zone",98
+99,Kingler,water,NA,"Route 19, Route 40, Cherrygrove City, Olivine City, Cianwood City, Union Cave, Whirl Islands, The Cliff CaveSafari Zone (Special Items)","Route 19, Route 40, Cherrygrove City, Olivine City, Cianwood City, Union Cave, Whirl Islands, The Cliff CaveSafari Zone (Special Items)",98
+100,Voltorb,electric,NA,Route 10Safari Zone (Special Items),Route 10Safari Zone (Special Items),100
+101,Electrode,electric,NA,Cerulean Cave,Cerulean Cave,100
+102,Exeggcute,grass,psychic,"Routes 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town Cherrygrove City, Violet City, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate (Headbutt)","Routes 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town Cherrygrove City, Violet City, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate (Headbutt)",102
+103,Exeggutor,grass,psychic,Evolve Exeggcute,Evolve Exeggcute,102
+104,Cubone,ground,NA,Rock TunnelSafari Zone,Rock TunnelSafari Zone,104
+105,Marowak,ground,NA,Rock TunnelSafari Zone,Rock TunnelSafari Zone,104
+106,Hitmonlee,fighting,NA,Evolve Tyrogue,Evolve Tyrogue,236
+107,Hitmonchan,fighting,NA,Evolve Tyrogue,Evolve Tyrogue,236
+108,Lickitung,normal,NA,Route 44Safari Zone,Route 44Safari Zone,108
+109,Koffing,poison,NA,Burnt TowerSafari Zone,Burnt TowerSafari Zone,109
+110,Weezing,poison,NA,Safari Zone,Safari Zone,109
+111,Rhyhorn,ground,rock,Victory RoadSafari Zone,Victory RoadSafari Zone,111
+112,Rhydon,ground,rock,Safari Zone (Special Items),Safari Zone (Special Items),111
+113,Chansey,normal,NA,"Route 13, Route 14, Route 15Safari Zone (Special Items)","Route 13, Route 14, Route 15Safari Zone (Special Items)",440
+114,Tangela,grass,NA,"Route 21, Route 28, Route 44, Mt. Silver","Route 21, Route 28, Route 44, Mt. Silver",114
+115,Kangaskhan,normal,NA,Rock TunnelSafari Zone,Rock TunnelSafari Zone,115
+116,Horsea,water,NA,"Whirl Islands, Seafoam Islands","Whirl Islands, Seafoam Islands",116
+117,Seadra,water,NA,"Whirl Islands, Seafoam Islands","Whirl Islands, Seafoam Islands",116
+118,Goldeen,water,NA,"Route 9, Route 10, Route 24, Route 25, Route 42, Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Mt. Silver, Cerulean City, Cerulean Cave, Tohjo FallsSafari Zone","Route 9, Route 10, Route 24, Route 25, Route 42, Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Mt. Silver, Cerulean City, Cerulean Cave, Tohjo FallsSafari Zone",118
+119,Seaking,water,NA,"Route 9, Route 10, Route 24, Route 25, Route 42, Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Mt. Silver, Cerulean City, Tohjo FallsSafari Zone","Route 9, Route 10, Route 24, Route 25, Route 42, Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Mt. Silver, Cerulean City, Tohjo FallsSafari Zone",118
+120,Staryu,water,NA,"Route 47 (Day)Route 19, Route 34, Route 40, Route 47, Olivine City, Union Cave, Cherrygrove City (Night)","Route 47 (Day)Route 19, Route 34, Route 40, Route 47, Olivine City, Union Cave, Route 47, Cherrygrove City (Night)",120
+121,Starmie,water,psychic,Evolve Staryu,Evolve Staryu,120
+122,Mr. Mime,psychic,/pokedex-bw/type/fairy,Route 21Safari Zone,Route 21Safari Zone,439
+123,Scyther,bug,flying,Bug Catching Contest,Bug Catching Contest,123
+124,Jynx,ice,psychic,"Ice Path, Seafoam Islands","Ice Path, Seafoam Islands",238
+125,Electabuzz,electric,NA,Route 10Safari Zone (Special Items),Route 10Safari Zone (Special Items),239
+126,Magmar,fire,NA,Burnt TowerSafari Zone,Burnt TowerSafari Zone,240
+127,Pinsir,bug,/pokedex-bw/type/flying,Bug Catching Contest,Bug Catching Contest,127
+128,Tauros,normal,NA,"Route 38, Route 39, Route 48Safari Zone","Route 38, Route 39, Route 48Safari Zone",128
+129,Magikarp,water,NA,"Route 6, Route 9, Route 10, Route 12, Route 13, Route 19, Route 20, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 40, Route 41, Route 42, Route 43, Route 44, Route 45, Route 47, New Bark Town, Cherrygrove City, Violet City, Ecruteak City, Olivine City, Cianwood City, Blackthorn City, Ruins of Alph, Slowpoke Well, Union Cave, Ilex Forest, Mt. Mortar, Burnt Tower, Dark Cave, Whirl Islands, Mt. Silver, Dragon's Den, Lake of Rage, Cliff's Edge Gate, Pallet Town, Viridian City, Cerulean City, Vermillion City, Fuchsia City, Cinnabar Island, Cerulean Cave, Seafoam Islands, Tohjo FallsSafari Zone","Route 6, Route 9, Route 10, Route 12, Route 13, Route 19, Route 20, Route 21, Route 22, Route 24, Route 25, Route 26, Route 27, Route 28, Route 30, Route 31, Route 32, Route 35, Route 40, Route 41, Route 42, Route 43, Route 44, Route 45, Route 47, New Bark Town, Cherrygrove City, Violet City, Ecruteak City, Olivine City, Cianwood City, Blackthorn City, Ruins of Alph, Slowpoke Well, Union Cave, Ilex Forest, Mt. Mortar, Burnt Tower, Dark Cave, Whirl Islands, Mt. Silver, Dragon's Den, Lake of Rage, Cliff's Edge Gate, Pallet Town, Viridian City, Cerulean City, Vermillion City, Fuchsia City, Cinnabar Island, Cerulean Cave, Seafoam Islands, Tohjo FallsSafari Zone",129
+130,Gyarados,water,flying,"Mt. Silver, Lake of Rage, Fuchsia City, Cerulean Cave, Seafoam Islands","Mt. Silver, Lake of Rage, Fuchsia City, Cerulean Cave, Seafoam Islands",129
+131,Lapras,water,ice,Union CaveSafari Zone,Union CaveSafari Zone,131
+132,Ditto,normal,NA,"Route 35, Route 47, Cerulean CaveSafari Zone","Route 35, Route 47, Cerulean CaveSafari Zone",132
+133,Eevee,normal,NA,Receive from Bill,Receive from Bill,133
+134,Vaporeon,water,NA,Evolve Eevee,Evolve Eevee,133
+135,Jolteon,electric,NA,Evolve Eevee,Evolve Eevee,133
+136,Flareon,fire,NA,Evolve Eevee,Evolve Eevee,133
+137,Porygon,normal,NA,Celadon Game Corner,Celadon Game Corner,137
+138,Omanyte,rock,water,Revive Helix Fossil,Revive Helix Fossil,138
+139,Omastar,rock,water,Evolve Omanyte,Evolve Omanyte,138
+140,Kabuto,rock,water,Revive Dome Fossil,Revive Dome Fossil,140
+141,Kabutops,rock,water,Evolve Kabuto,Evolve Kabuto,140
+142,Aerodactyl,rock,flying,Revive Old Amber,Revive Old Amber,142
+143,Snorlax,normal,NA,Route 11,Route 11,446
+144,Articuno,ice,flying,Seafoam Islands,Seafoam Islands,144
+145,Zapdos,electric,flying,Route 10,Route 10,145
+146,Moltres,fire,flying,Mt. Silver,Mt. Silver,146
+147,Dratini,dragon,NA,Dragon's DenSafari Zone,Dragon's DenSafari Zone,147
+148,Dragonair,dragon,NA,Dragon's Den,Dragon's Den,147
+149,Dragonite,dragon,flying,Evolve Dragonair,Evolve Dragonair,147
+150,Mewtwo,psychic,/pokedex-bw/type/fighting,Cerulean Cave,Cerulean Cave,150
+151,Mew,psychic,NA,Trade from DPt,Trade from DPt,151
+152,Chikorita,grass,NA,Receive from Professor Elm,Receive from Professor Elm,152
+153,Bayleef,grass,NA,Evolve Chikorita,Evolve Chikorita,152
+154,Meganium,grass,NA,Evolve Bayleef,Evolve Bayleef,152
+155,Cyndaquil,fire,NA,Receive from Professor Elm,Receive from Professor Elm,155
+156,Quilava,fire,NA,Evolve Cyndaquil,Evolve Cyndaquil,155
+157,Typhlosion,fire,NA,Evolve Cyndaquil,Evolve Cyndaquil,155
+158,Totodile,water,NA,Receive from Professor Elm,Receive from Professor Elm,158
+159,Croconaw,water,NA,Evolve Totodile,Evolve Totodile,158
+160,Feraligatr,water,NA,Evolve Croconaw,Evolve Croconaw,158
+161,Sentret,normal,NA,"Route 1, Route 29Safari Zone","Route 1, Route 29Safari Zone",161
+162,Furret,normal,NA,Route 1Safari Zone (Special Items),Route 1Safari Zone (Special Items),161
+163,Hoothoot,normal,flying,"Route 1, Route 2, Route 29, Route 30, Route 37, Route 35, Route 36, Route 37, National Park, Viridian ForestRoutes 1, 2, 3, 4, 5, 6, 8, 12, 13, 14, 15, 18, 21, 22, 25, 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town, Cherrygrove City, Violet City, Ilex Forest, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate, Pallet Town, Viridian City, Viridian Forest, Pewter City, Cerulean City, Fuchsia City (Headbutt)","Route 1, Route 2, Route 29, Route 30, Route 37, Route 35, Route 36, Route 37, National Park, Viridian ForestRoutes 1, 2, 3, 4, 5, 6, 8, 12, 13, 14, 15, 18, 21, 22, 25, 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town, Cherrygrove City, Violet City, Ilex Forest, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate, Pallet Town, Viridian City, Viridian Forest, Pewter City, Cerulean City, Fuchsia City (Headbutt)",163
+164,Noctowl,normal,flying,"Route 2, Route 8, Route 13, Route 14, Route 15, Route 43, Route 47, Viridian ForestIlex Forest, Viridian Forest (Headbutt)","Route 2, Route 8, Route 13, Route 14, Route 15, Route 31, Route 43, Route 47, Viridian ForestIlex Forest, Viridian Forest (Headbutt)",163
+165,Ledyba,bug,flying,Trade from DPt,"Route 2, Route 30, Route 31, Route 37, Route 37Routes 1, 2, 12, 13, 14, 15, 18, 21, 22, 26, 27, 29, 30, 31, 34, 35, 36, 37, 38, 39, 47 & 48, New Bark Town, Cherrygrove City National Park, Ecruteak City, Safari Zone Gate, Pallet Town, Viridian City, Viridian Forest, Fuchsia City (Headbutt)",165
+166,Ledian,bug,flying,Trade from DPt,Route 2Viridian Forest (Headbutt),165
+167,Spinarak,bug,poison,"Route 2, Route 30, Route 31, Route 37Routes 1, 2, 12, 13, 14, 15, 18, 21, 22, 26, 27, 29, 30, 31, 34, 35, 36, 37, 38, 39, 47 & 48, New Bark Town, Cherrygrove City National Park, Ecruteak City, Safari Zone Gate, Pallet Town, Viridian City, Viridian Forest, Fuchsia City (Headbutt)",Trade from DPtHG,167
+168,Ariados,bug,poison,Route 2Viridian Forest (Headbutt),Trade from DPtHG,167
+169,Crobat,poison,flying,Evolve Crobat,Evolve Crobat,41
+170,Chinchou,water,electric,"Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island","Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island",170
+171,Lanturn,water,electric,"Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island","Route 20, Route 21, Route 26, Route 27, Route 41, Route 47, New Bark Town, Pallet Town, Vermillion City, Cinnabar Island",170
+172,Pichu,electric,NA,Ilex Forest,Ilex Forest,172
+173,Cleffa,normal,NA,Breed Clefairy/Clefable,Breed Clefairy/Clefable,173
+174,Igglybuff,normal,/pokedex-bw/type/fairy,Breed Jigglypuff/Wigglytuff,Breed Jigglypuff/Wigglytuff,174
+175,Togepi,normal,NA,Receive from Elm's Aide,Receive from Elm's Aide,175
+176,Togetic,normal,flying,Evolve Togepi,Evolve Togepi,175
+177,Natu,psychic,flying,Ruins of Alph,Ruins of Alph,177
+178,Xatu,psychic,flying,Evolve Natu,Evolve Natu,177
+179,Mareep,electric,NA,"Route 32, Route 42, Route 43Safari Zone (Special Items)","Route 32, Route 42, Route 43Safari Zone (Special Items)",179
+180,Flaaffy,electric,NA,"Route 42, Route 43","Route 42, Route 43",179
+181,Ampharos,electric,/pokedex-bw/type/dragon,Evolve Flaaffy,Evolve Flaaffy,179
+182,Bellossom,grass,NA,Evolve Gloom,Evolve Gloom,43
+183,Marill,water,/pokedex-bw/type/fairy,Mt. Mortar,Mt. Mortar,298
+184,Azumarill,water,/pokedex-bw/type/fairy,Evolve Marill,Evolve Marill,298
+185,Sudowoodo,rock,NA,Route 36,Route 36,438
+186,Politoed,water,NA,Evolve Poliwhirl,Evolve Poliwhirl,60
+187,Hoppip,grass,flying,"Route 13, Route 14, Route 15, Route 32, Route 33, Route 48Safari Zone","Route 13, Route 14, Route 15, Route 32, Route 33, Route 48Safari Zone",187
+188,Skiploom,grass,flying,Route 14Safari Zone,Route 14Safari Zone,187
+189,Jumpluff,grass,flying,Safari Zone (Special Items),Safari Zone (Special Items),187
+190,Aipom,normal,NA,"Routes 28, 33, 42, 44, 45, 46, Azalea Town, Mt. Silver (Headbutt)","Routes 28, 33, 42, 44, 45, 46, Azalea Town, Mt. Silver (Headbutt)",190
+191,Sunkern,grass,NA,"Route 24, National ParkSafari Zone","Route 24, National ParkSafari Zone",191
+192,Sunflora,grass,NA,Evolve Sunkern,Evolve Sunkern,191
+193,Yanma,bug,flying,Route 35,Route 35,193
+194,Wooper,water,ground,"Route 32, Ruins of Alph, Union Cave, Cliff's Edge Gate, The Cliff CaveSafari Zone","Route 32, Ruins of Alph, Union Cave, Cliff's Edge Gate, The Cliff CaveSafari Zone",194
+195,Quagsire,water,ground,"Route 10, Route 12, Route 13, Route 14, Route 15, Route 26, Route 27, Route 32, Ruins of Alph, Union Cave, Mt. Silver, Cliff's Edge Gate, The Cliff Cave","Route 10, Route 12, Route 13, Route 14, Route 15, Route 27, Route 32, Ruins of Alph, Union Cave, Mt. Silver, Cliff's Edge Gate, The Cliff Cave",194
+196,Espeon,psychic,NA,Evolve Eevee,Evolve Eevee,133
+197,Umbreon,dark,NA,Evolve Eevee,Evolve Eevee,133
+198,Murkrow,dark,flying,"Route 7, Route 16Safari Zone","Route 7, Route 16Safari Zone",198
+199,Slowking,water,psychic,Evolve Slowking,Evolve Slowking,79
+200,Misdreavus,ghost,NA,"Mt. Silver, The Cliff CaveSafari Zone","Mt. Silver, The Cliff CaveSafari Zone",200
+201,Unown,psychic,NA,Ruins of Alph,Ruins of Alph,201
+202,Wobbuffet,psychic,NA,"Dark Cave, Cerulean CaveSafari Zone","Dark Cave, Cerulean CaveSafari Zone",360
+203,Girafarig,normal,psychic,"Route 43, Route 48Safari Zone","Route 43, Route 48Safari Zone",203
+204,Pineco,bug,NA,"Routes 1, 2, 3, 4, 5, 6, 8, 22, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town, Cherrygrove City, Violet City, Ilex Forest, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate Pallet Town, Viridian City, Pewter City, Cerulean City (Headbutt)","Routes 1, 2, 3, 4, 5, 6, 8, 22, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 43, 47 & 48, New Bark Town, Cherrygrove City, Violet City, Ilex Forest, National Park, Ecruteak City, Lake of Rage, Safari Zone Gate Pallet Town, Viridian City, Pewter City, Cerulean City (Headbutt)",204
+205,Forretress,bug,steel,Evolve Pineco,Evolve Pineco,204
+206,Dunsparce,normal,NA,Dark Cave,Dark Cave,206
+207,Gligar,ground,flying,Route 45,Trade from DPt,207
+208,Steelix,steel,ground,"Mt. Silver, The Cliff Cave","Mt. Silver, The Cliff Cave",95
+209,Snubbull,normal,NA,Route 38,Route 38,209
+210,Granbull,normal,NA,Evolve Snubbull,Evolve Snubbull,209
+211,Qwilfish,water,poison,"Route 12, Route 13, Route 32","Route 12, Route 13, Route 32",211
+212,Scizor,bug,steel,Evolve Scyther,Evolve Scyther,123
+213,Shuckle,bug,rock,"Cianwood City, Vermillion CitySafari Zone (Special Items)","Cianwood City, Vermillion CitySafari Zone (Special Items)",213
+214,Heracross,bug,fighting,"Routes 7, 11, 16, 28, 33, 42, 44, 45, 46 & 47, Azalea Town Vermillion City, Celadon City, Mt. Silver (Headbutt)","Routes 7, 11, 16, 28, 33, 42, 44, 45, 46 & 47, Azalea Town Vermillion City, Celadon City, Mt. Silver (Headbutt)",214
+215,Sneasel,dark,ice,"Route 28, Mt. Silver","Route 28, Mt. Silver",215
+216,Teddiursa,normal,NA,Trade from DPtSS,"Route 45, Mt. Silver",216
+217,Ursaring,normal,NA,Trade from DPtSS,"Route 28, Mt. Silver, Victory Road",216
+218,Slugma,fire,NA,"Route 16, Route 17, Route 18","Route 16, Route 17, Route 18",218
+219,Magcargo,fire,rock,Evolve Slugma,Evolve Slugma,218
+220,Swinub,ice,ground,Ice Path,Ice Path,220
+221,Piloswine,ice,ground,Evolve Swinub,Evolve Swinub,220
+222,Corsola,water,rock,"Route 19, Route 40, Cherrygrove City, Olivine City, Cianwood City, Union Cave","Route 19, Route 40, Cherrygrove City, Olivine City, Cianwood City, Union Cave",222
+223,Remoraid,water,NA,Route 44,Route 44,223
+224,Octillery,water,NA,Evolve Remoraid,Evolve Remoraid,223
+225,Delibird,ice,flying,Trade from DPtSS,Ice Path,225
+226,Mantine,water,flying,Route 41,Trade from DPtHG,458
+227,Skarmory,steel,flying,Trade from DPtSS,Route 45,227
+228,Houndour,dark,fire,Route 7Safari Zone (Special Items),Route 7Safari Zone (Special Items),228
+229,Houndoom,dark,fire,Safari Zone (Special Items),Safari Zone (Special Items),228
+230,Kingdra,water,dragon,Evolve Seadra,Evolve Seadra,116
+231,Phanpy,ground,NA,"Route 45, Mt. Silver",Trade from DPtHG,231
+232,Donphan,ground,NA,"Route 28, Mt. Silver, Victory Road",Trade from DPtHG,231
+233,Porygon2,normal,NA,Evolve Porygon,Evolve Porygon,137
+234,Stantler,normal,NA,"Route 37, Route 36, Route 37Safari Zone","Route 37, Route 36, Route 37Safari Zone",234
+235,Smeargle,normal,NA,Ruins of AlphSafari Zone,Ruins of AlphSafari Zone,235
+236,Tyrogue,fighting,NA,Receive from Karate King in Mt. Mortar,Receive from Karate King in Mt. Mortar,236
+237,Hitmontop,fighting,NA,Evolve Tyrogue,Evolve Tyrogue,236
+238,Smoochum,ice,psychic,Breed Jynx,Breed Jynx,238
+239,Elekid,electric,NA,Breed Electabuzz/Electivire,Breed Electabuzz/Electivire,239
+240,Magby,fire,NA,Breed Magmar/Magmortar,Breed Magmar/Magmortar,240
+241,Miltank,normal,NA,"Route 38, Route 39, Route 47","Route 38, Route 39, Route 47",241
+242,Blissey,normal,NA,Evolve Chansey,Evolve Chansey,440
+243,Raikou,electric,NA,Roaming Johto,Roaming Johto,243
+244,Entei,fire,NA,Roaming Johto,Roaming Johto,244
+245,Suicune,water,NA,Route 25,Route 25,245
+246,Larvitar,rock,ground,Mt. SilverSafari Zone,Mt. SilverSafari Zone,246
+247,Pupitar,rock,ground,Mt. Silver,Mt. Silver,246
+248,Tyranitar,rock,dark,Evolve Pupitar,Evolve Pupitar,246
+249,Lugia,psychic,flying,Whirl Islands,Whirl Islands,249
+250,Ho-oh,fire,flying,Bell Tower,Bell Tower,250
+251,Celebi,psychic,grass,Trade from DPt,Trade from DPt,251
