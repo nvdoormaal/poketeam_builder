@@ -1,0 +1,61 @@
+---
+title: "Poketeam Builder"
+author: "Nick van Doormaal"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(rvest)
+library(here)
+library(janitor)
+```
+
+## Getting the data
+
+We're lucky with all the pokemon geeks out there! So many resources, tables, and analyses are readily available. The trick is, however, to get the data in such a way that we can use for our analysis. That's why we will build our own webscraper to get all the data needed. Our analysis is heavily based on data from 'Serebii.net', 'Bulbapedia', and  'pokemondb.net'.
+
+There are many different generations by now and each generation adds new pokemon and sometimes new types. Also, the stats of the pokemon get updated so a pokemon's stats from one generation might be different from the later generations. For now, we stick with the analysing the generation IV of pokemon (e.g. Pokemon Diamond, Pearl, HeartGold, and Soulsilver). 
+
+### Pokemon types and locations
+Lets start with getting a list of pokemons, their types, and where they can be found in the game. For this we'll use 'Serebii.net' 
+
+```{r set-url}
+base_url <- "https://www.serebii.net/pokedex-dp/"
+```
+
+You can see from the url that we're looking at the pokedex from Dimand and Pearl (e.g. 'pokedex-dp'). For our scraper, we'll need to visit many different pages, one for every pokemon entry. Luckily, the url is build up from three basic components:
+- the start (e.g. our base_url, https://www.serebii.net/pokedex-dp/)
+- the pokemon number (for example, pikachu is number 025)
+- the end. All pages end in '.shtml'
+
+This makes it very easy to already build our urls that we can pass on to our scraper.
+```{r build-links}
+## We'll start with the pokemons from the first two generations, 1 to 251.
+## The padding is needed to add some leading zero's for the links
+poke_numbers <- str_pad(1:251, 3, pad = "0") %>% 
+  as.character()
+## Putting all the links together
+poke_links <- paste0(base_url, poke_numbers, ".shtml")
+```
+
+
+```{r scrape-time, warning=FALSE}
+source(
+  here("scripts", "poke_scraper.R")
+)
+poke_df <- map(
+  poke_links, get_poke_data
+) %>% 
+  bind_rows()
+```
+
+```{r}
+scraped_data <- read_csv(
+  here("data", "pokemon_base_stats.csv")
+)
+```
+
